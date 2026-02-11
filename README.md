@@ -12,8 +12,8 @@ The application is built using a **Streamlit-based frontend** and a **Flask REST
 ---
 
 ## 🌐 Live Application
-- **Frontend (Streamlit Cloud):** *(add your deployed link here)*
-- **Backend API (Render):** *(add your deployed API link here)*
+- **Frontend (Streamlit Cloud):** [*(Click Here)*](https://travelfrontendpy-d6arskq56f3umxydntjqse.streamlit.app/)
+- **Backend API (Render):** [*(link)*](https://ai-powered-travel-planner-g8j3.onrender.com)
 
 ---
 
