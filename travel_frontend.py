@@ -3,8 +3,9 @@ import requests
 import datetime
 from urllib.parse import quote_plus
 
-API_URL = "http://127.0.0.1:5000/itinerary"
-CITY_SEARCH_URL = "http://127.0.0.1:5000/city-search"
+API_URL = "https://ai-powered-travel-planner-g8j3.onrender.com/itinerary"
+CITY_SEARCH_URL = "https://ai-powered-travel-planner-g8j3.onrender.com/city-search"
+
 ITINERARY_TIMEOUT_SECONDS = 90
 
 @st.cache_data(ttl=300, show_spinner=False)
@@ -827,6 +828,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
